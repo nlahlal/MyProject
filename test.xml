@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <soapenv:Body>
+      <loginResponse>
+         <result>
+            <metadataServerUrl>https://test.com</metadataServerUrl>
+            <passwordExpired>false</passwordExpired>
+            <sandbox>true</sandbox>
+            <serverUrl>https://gdgdhhgfh.fdd</serverUrl>
+            <sessionId>gfhfghjfgh</sessionId>
+            <userId>dfsfds</userId>
+            <userInfo>
+               <accessibilityMode>false</accessibilityMode>
+               <currencySymbol>€</currencySymbol>
+               <orgAttachmentFileSizeLimit>5242880</orgAttachmentFileSizeLimit>
+               <orgDefaultCurrencyIsoCode>EUR</orgDefaultCurrencyIsoCode>
+               <orgDisallowHtmlAttachments>false</orgDisallowHtmlAttachments>
+               <orgHasPersonAccounts>true</orgHasPersonAccounts>
+               <organizationId>00D210000008x5lEAA</organizationId>
+               <organizationMultiCurrency>false</organizationMultiCurrency>
+               <organizationName>dffd fdd</organizationName>
+               <profileId>00ei0000001iC82AAE</profileId>
+               <roleId xsi:nil="true" />
+               <sessionSecondsValid>28800</sessionSecondsValid>
+               <userDefaultCurrencyIsoCode xsi:nil="true" />
+               <userEmail>dddd@dddd.net</userEmail>
+               <userFullName>TEST</userFullName>
+               <userId>00521000000jVIRAA2</userId>
+               <userLanguage>en_US</userLanguage>
+               <userLocale>en_US</userLocale>
+               <userName>ddd@ddd.net.df</userName>
+               <userTimeZone>Europe/Paris</userTimeZone>
+               <userType>CspLitePortal</userType>
+               <userUiSkin>Theme3</userUiSkin>
+            </userInfo>
+         </result>
+      </loginResponse>
+   </soapenv:Body>
+</soapenv:Envelope>
